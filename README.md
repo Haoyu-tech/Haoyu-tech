@@ -2,9 +2,9 @@
 
 PhD candidate in **Mathematical Finance**. My research sits between **market microstructure** and **empirical asset pricing** — building market-making agents on real limit-order-book data, and testing return-predicting factors with machine learning.
 
-[![Website](https://img.shields.io/badge/Website-haoyu--tech.github.io-0A66C2)](https://haoyu-tech.github.io/haoyuwang.github.io/)
+[![Website](https://img.shields.io/badge/Website-haoyu--tech.github.io-0A66C2)](https://haoyu-tech.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Haoyu%20Wang-0A66C2?logo=linkedin)](https://www.linkedin.com/in/haoyu-wang-05a224350)
-[![CV](https://img.shields.io/badge/CV-PDF-555)](https://haoyu-tech.github.io/haoyuwang.github.io/Haoyu-Wang-CV.pdf)
+[![CV](https://img.shields.io/badge/CV-PDF-555)](https://haoyu-tech.github.io/Haoyu-Wang-CV.pdf)
 
 **Interests:** high-frequency market making · reinforcement learning · limit order books · factor investing · ML in asset pricing
 
