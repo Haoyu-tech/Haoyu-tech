@@ -18,6 +18,7 @@ PhD candidate in **Mathematical Finance**. My research sits between **market mic
 | [**Avellaneda–Stoikov on BTCUSDT L2**](https://github.com/Haoyu-tech/An-Avellaneda-Stoikov-market-making-research-project-built-on-real-Binance-Futures-BTCUSDT-L2-data.) | Avellaneda–Stoikov market making calibrated and backtested on real Binance Futures L2 data |
 | [**Hybrid RL + A–S Backbone**](https://github.com/Haoyu-tech/Hybrid-Reinforcement-Learning-with-an-Avellaneda--Stoikov-Backbone) | RL agent layered on an A–S backbone for order-book-aware HFT market making under non-stationary microstructure |
 | [**RL Market Making in a Multi-Agent Dealer Market**](https://github.com/Haoyu-tech/reinforcement-learning-for-market-making-in-a-multi-agent-dealer-market) | Reproduction of Ganesh et al. (2019): RL dealers in a simulated multi-agent market, calibrated to BTC order-book depth |
+| [**Stoikov (2018) Micro-Price Replication**](https://github.com/Haoyu-tech/Stoikov-2018-Micro-Price-Replication) | Reproduction of Stoikov (2018) on Binance BNBUSDT spot tick data, extended to large price jumps and memory states |
 | [**LOB Replay**](https://github.com/Haoyu-tech/lob-replay) | In-browser replay of a recorded CME BTC futures market-by-order (L3) book |
 
 ## 🧮 Asset Pricing & Factor Research
